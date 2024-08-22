@@ -18,10 +18,11 @@ const RightSideBar = () => {
           <img src={assets.pic2} alt="" />
           <img src={assets.pic3} alt="" />
           <img src={assets.pic4} alt="" />
-          <img src={assets.pic5} alt="" />
-          <img src={assets.pic6} alt="" />
+          <img src={assets.pic1} alt="" />
+          <img src={assets.pic2} alt="" />
         </div>
       </div>
+      <button>Logout</button>
       
     </div>
   )
